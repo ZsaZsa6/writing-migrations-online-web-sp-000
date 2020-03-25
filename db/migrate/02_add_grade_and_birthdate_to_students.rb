@@ -1,6 +1,6 @@
 class AddGradeAndBirthdateToStudents < ActiveRecord::Migration[5.1]
 
   def create_table
-    add_column 
+    add_column :
   end
 end
